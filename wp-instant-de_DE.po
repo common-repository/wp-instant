@@ -1,0 +1,77 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-instant\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-10-18 13:36+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Bernhard Kau <bernhard@kau-boys.de>\n"
+"Language-Team: Bernhard Kau <max@mustermann.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\wp-instant\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-instant.php:33
+msgid "Settings"
+msgstr ""
+
+#: wp-instant.php:64
+msgid "Options saved."
+msgstr ""
+
+#: wp-instant.php:67
+msgid "Here you can customize the plugin for your needs."
+msgstr "Hier können Sie das Plugin an Ihre eigenen Bedürfnisse anpassen."
+
+#: wp-instant.php:71
+msgid "Selectortype"
+msgstr "Selektortype"
+
+#: wp-instant.php:76
+msgid "Here you can set if you select the input by the id or name attribute (default = id)."
+msgstr "Hier können Sie ob sie das Suchfeld per id oder name Attribut auswählen (Standard = id)"
+
+#: wp-instant.php:79
+msgid "Search field attribute value"
+msgstr "Suchfeld Attributwert"
+
+#: wp-instant.php:81
+msgid "Here you can set the value of the id or name attribute from the search input used in your template (default = s)."
+msgstr "Hier können Sie den Wert des id oder name Attributs eingeben, dass Sie in ihrem Tempalte verwenden (Standard = s)"
+
+#: wp-instant.php:84
+msgid "Number of results"
+msgstr "Anzahl der Ergebnisse"
+
+#: wp-instant.php:86
+msgid "Here you can set the number of posts that will be shown (default = 10)."
+msgstr "Hier können Sie einstellen, wie viele Ergebnisse maximal angezeigt werden sollen (Standard = 10)."
+
+#: wp-instant.php:89
+msgid "Content tag ID"
+msgstr "Inhalts Tag ID"
+
+#: wp-instant.php:91
+msgid "Here you can set the value of the id of the tag in which the content should be included (default = content)."
+msgstr "Hier können Sie ID des Inhalts Tags eingeben, dass Sie in ihrem Tempalte verwenden (Standard = content)"
+
+#: wp-instant.php:94
+msgid "Save Changes"
+msgstr ""
+
+#: wp-instant.php:98
+msgid ""
+"You have to create a file called <code>wp-instant-search-template.php</code> in your theme folder to show the search result with your theme settings.\n"
+"\t\t\t\tA detailed tutorial can be found on this post: <a href=\"http://kau-boys.de/wordpress/das-wp-instant-plugin-fuer-euer-theme-anpassen?lang=en\">Customize the WP-Instant Plugin for your theme</a>"
+msgstr ""
+"Du musst eine Datei mit dem Namen <code>wp-instant-search-template.php</code> in deinem Theme Verzeichnis erzeugen, damit die Suchergebnisse mit deinen Theme Einstellungen angezeigt werden.\n"
+"\t\t\t\tEine detailierte Anleitung findest du in diesem Post: <a href=\"http://kau-boys.de/wordpress/das-wp-instant-plugin-fuer-euer-theme-anpassen\">Das WP-Instant Plugin für euer Theme anpassen</a>"
+
